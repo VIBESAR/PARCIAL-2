@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|c:\\users\\user\\desktop\\p2-main\\2.herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|c:\\users\\user\\desktop\\p2-main\\2.herencia\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|solutionrelative:vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|c:\\users\\user\\desktop\\p2-main\\2.herencia\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|solutionrelative:gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|c:\\users\\user\\desktop\\p2-main\\2.herencia\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B62288-B77B-4E00-B4BE-A0ED5D1A51AA}|2.Herencia.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:07:15.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Vendedor.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Vendedor.cs",
+              "RelativeToolTip": "Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:07:02.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Gerente.cs",
+              "RelativeDocumentMoniker": "Gerente.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Gerente.cs",
+              "RelativeToolTip": "Gerente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:06:49.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\P2-main\\2.Herencia\\Empleado.cs",
+              "RelativeToolTip": "Empleado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:06:17.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
